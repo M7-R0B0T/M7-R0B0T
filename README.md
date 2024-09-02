@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M7-R0B0T
+- 👋 Hi, I’m @SE7EN-BYTE
 - 👀 I’m interested in Coding, Cyber Security, Gaming and traveling.
 - 🌱 I’m currently learning Cyber Security.
 - 💞️ I’m looking to collaborate on Coding and Cyber Security Projects.
